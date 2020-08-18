@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T08:47:35.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="S8np7mpYqLMYYK5q5P_3" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T08:47:54.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="G2e5fi5IDbYmUBe9WpoZ" version="13.6.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1102" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -123,12 +123,13 @@
         <mxCell id="mLAfzD7H1Y2AKtJi_P_H-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mLAfzD7H1Y2AKtJi_P_H-22" target="21ea969265ad0168-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mLAfzD7H1Y2AKtJi_P_H-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mLAfzD7H1Y2AKtJi_P_H-47" target="21ea969265ad0168-11" edge="1">
+        <mxCell id="mLAfzD7H1Y2AKtJi_P_H-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="21ea969265ad0168-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="760" y="305" />
               <mxPoint x="760" y="99" />
             </Array>
+            <mxPoint x="870" y="331" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mLAfzD7H1Y2AKtJi_P_H-1" value="Chi tiết bệnh nhân" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
@@ -155,14 +156,8 @@
         <mxCell id="DH02RVZQ1GlcpuNfbPdf-3" value="ID_phong" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mLAfzD7H1Y2AKtJi_P_H-1" vertex="1">
           <mxGeometry y="182" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mLAfzD7H1Y2AKtJi_P_H-47" value="Ngày sinh" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mLAfzD7H1Y2AKtJi_P_H-1" vertex="1">
-          <mxGeometry y="208" width="150" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="S-22-Up610zips90_ALZ-2" value="Ngày Sinh" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLAfzD7H1Y2AKtJi_P_H-1">
-          <mxGeometry y="234" width="150" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="S-22-Up610zips90_ALZ-3" value="Nơi Làm Việc" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mLAfzD7H1Y2AKtJi_P_H-1">
-          <mxGeometry y="260" width="150" height="26" as="geometry" />
+          <mxGeometry y="208" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mLAfzD7H1Y2AKtJi_P_H-14" value="Chi tiết hóa đơn" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="700" y="400" width="140" height="160" as="geometry" />
