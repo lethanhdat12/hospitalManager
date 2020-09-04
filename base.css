@@ -1,0 +1,24 @@
+:root{
+    --background:#fafafa;
+    /*********************HEADER*********************/
+    --color-a:#c83357;
+   /* độ dài thanh nav */
+    --width--nav : 200px;
+    --height--nav:80px;
+    /* Màu thanh nav */
+    --color--nav: #eff2fb;
+    --size-nav:20px;
+    /* Tiêu đề */
+    --color-chudao:#80b068;
+    --height--logo : 85px;
+    /**********************MAINCONTENT**********************/
+    --color-tintuc:#A52A2A;
+    --color-icon:red;
+    --color-tieude:#fff;
+    --color-bghover:#6495ed;
+    --size-tieude1:13px;
+    --size-tintuc:15px;
+    /**********************FOOTER**********************/
+    --color-footer:#eff2fb;
+    --color-a:#c20c0c;
+}
