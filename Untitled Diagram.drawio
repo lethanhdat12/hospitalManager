@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T08:03:06.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="KhhFa8LfQJG8ZYrGIkCL" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T08:04:03.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="vPnFCBh13VjgfbbX2jXz" version="13.6.9" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="900" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -220,17 +220,15 @@
         <mxCell id="4y6XZsc8v7JH0Q0DXBkX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mLAfzD7H1Y2AKtJi_P_H-16" target="mLAfzD7H1Y2AKtJi_P_H-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sk3wndZaal5u78Rlii1K-18" value="Thống Kê" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1400" y="410" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Sk3wndZaal5u78Rlii1K-19" value="ID_Thongke" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Sk3wndZaal5u78Rlii1K-18" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Sk3wndZaal5u78Rlii1K-20" value="ID_Hoadon" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Sk3wndZaal5u78Rlii1K-18" vertex="1">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Sk3wndZaal5u78Rlii1K-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21ea969265ad0168-23" target="Sk3wndZaal5u78Rlii1K-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Sk3wndZaal5u78Rlii1K-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="21ea969265ad0168-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="449" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="510" />
+              <mxPoint x="1355" y="510" />
+              <mxPoint x="1355" y="449" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sk3wndZaal5u78Rlii1K-6" value="Tin tức" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="590" y="620" width="160" height="150" as="geometry" />
@@ -279,6 +277,15 @@
         </mxCell>
         <mxCell id="FcLvr6fcf_Te5fGS0LjR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21ea969265ad0168-24" target="21ea969265ad0168-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk3wndZaal5u78Rlii1K-18" value="Thống Kê" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="1420" y="410" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk3wndZaal5u78Rlii1K-19" value="ID_Thongke" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Sk3wndZaal5u78Rlii1K-18" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk3wndZaal5u78Rlii1K-20" value="ID_Hoadon" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Sk3wndZaal5u78Rlii1K-18" vertex="1">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
